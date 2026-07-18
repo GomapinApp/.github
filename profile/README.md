@@ -6,8 +6,6 @@
 
 Membantu UMKM Indonesia lebih mudah ditemukan, dipercaya, dan berkembang melalui teknologi.
 
-[Website](https://gomapin.com) • [Documentation](https://docs.gomapin.com)
-
 </div>
 
 ---
